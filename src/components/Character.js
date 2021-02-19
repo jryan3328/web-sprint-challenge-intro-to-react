@@ -6,9 +6,9 @@ import Stats from '../components/Stats'
 
 const Jedi = styled.div`
     border:3px solid black;
-    border-radius:100%;
+    border-radius:50%;
     margin: 5px auto;
-    padding: 15%;
+    padding: 5%;
     width: 20%;
     background-color: rgba(126, 120, 99, 0.4);
 `
